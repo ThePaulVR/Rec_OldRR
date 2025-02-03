@@ -1,17 +1,16 @@
-# Welcome to OpenRec!
+# Welcome to Rec_Old
 ---
-OpenRec is a RecRoom server software made by recroom2016!
+Rec_Old is a RecRoom server software made by ThePaulVR
 
 ### Branches
- - Master / main
- - Nightly
+ - Master 
 
 The master branch is the public branch where all the latest updates are published.
-The nightly branch is where all the experimental updates that are needed to be tested before release are.
+
 
 ---
 
 ### Getting in contact with the community
 
 If you are new to this we recommend you joining our Discord!
-Link: https://discord.com/invite/daC8QUhnFP
+Link: https://discord.gg/SkXaKZ7rP2
